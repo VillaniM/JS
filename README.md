@@ -1,2 +1,2 @@
 # JS
-O básico de JavaScript
+Iniciando o JavaScript
