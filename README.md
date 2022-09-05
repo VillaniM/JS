@@ -1,3 +1,3 @@
 # JS
 Iniciando o JavaScript
-Aplicando exemplos de funÁ?es JS b·sicas
+Aplicando exemplos de fun√ß√µes JS b√°sicas
