@@ -16,6 +16,10 @@ function listRoles(){
     return fetchJson("http://localhost:3000/roles")
 }
 
+function updateEmployee(employee){
+    return fetchJson("http://localhost:3000/roles")
+}
+
 /*
 //Criar
 fetch(`http://localhost:3000/employees`, {
